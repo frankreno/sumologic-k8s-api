@@ -1,3 +1,5 @@
+**NOTE: This repo is now deprecated. Please refer to [Sumo Logic's new solution and collection process](https://help.sumologic.com/Solutions/Kubernetes_Solution) for Kubernetes.**
+
 # sumologic-k8s-api
 Dockerized python script to extract information from the Kubernetes API and forward to SumoLogic.
 
